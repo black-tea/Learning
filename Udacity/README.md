@@ -1,1 +1,1 @@
-This is a collection of all code related to courses on Udacity.
+This is a collection of all code related to courses that I have taken on Udacity.
